@@ -1,2 +1,2 @@
-# colorful-background
-you can slide the pointer with your mouse and you will be able to see that the background color changes
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
